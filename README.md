@@ -1,7 +1,4 @@
-# [file-tag: readme-quantum-os-infotelcom.md]
-
-```markdown
-# 🌌 INFOTELCOM TECH // QUANTUM NEURAL OS v5.0
+#🌌 INFOTELCOM TECH
 > **[SYSTEM_STATUS: ACTIVE]** // **[SECURITY_LEVEL: OMNICRON]** // **[ENCRYPTION: QUANTUM_AES_256]**
 
 ```text
@@ -123,5 +120,3 @@ Le générateur de certificats s'intègre au cœur de l'écosystème global dist
 ```
 
 ```
-
-***
