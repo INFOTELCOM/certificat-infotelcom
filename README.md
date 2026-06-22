@@ -115,8 +115,6 @@ Le générateur de certificats s'intègre au cœur de l'écosystème global dist
 * ⚡ **Neural Link :** `ACTIVE`
 
 ```text
-🚀 INFOTELCOM QUANTUM CORE CONNECTED // SYSTEM SHUTDOWN PREVENTED.
-
-```
+🚀 INFOTELCOM TECH
 
 ```
